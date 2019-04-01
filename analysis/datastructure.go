@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/sdcoffey/big"
-	"github.com/snickers54/trading-bot/api"
+	"github.com/snickers54/crypto-trading-bot/api"
 )
 
 var MARKET_FEE = big.NewDecimal(0.25).Div(big.NewDecimal(100))

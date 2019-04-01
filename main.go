@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/snickers54/trading-bot/analysis"
-	"github.com/snickers54/trading-bot/api"
+	"github.com/snickers54/crypto-trading-bot/analysis"
+	"github.com/snickers54/crypto-trading-bot/api"
 	"github.com/subosito/gotenv"
 )
 

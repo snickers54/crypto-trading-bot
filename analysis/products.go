@@ -1,6 +1,6 @@
 package analysis
 
-import "github.com/snickers54/trading-bot/api"
+import "github.com/snickers54/crypto-trading-bot/api"
 
 func UpdateProducts() {
 	Knowledge.Mutex.Lock()

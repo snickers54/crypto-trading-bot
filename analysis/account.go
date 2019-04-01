@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/snickers54/trading-bot/api"
+	"github.com/snickers54/crypto-trading-bot/api"
 )
 
 func UpdateAccounts() {

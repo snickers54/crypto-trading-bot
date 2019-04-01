@@ -9,7 +9,7 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/sdcoffey/big"
-	"github.com/snickers54/trading-bot/utils"
+	"github.com/snickers54/crypto-trading-bot/utils"
 
 	"github.com/imroc/req"
 )
